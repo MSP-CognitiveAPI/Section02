@@ -92,7 +92,7 @@ RecognitionServiceFactory.CreateDataClient** 메서드가 필요합니다. 이 �
 - wav 파일외에 다른 형식을 올리려면 그에 맞는 형식에 대한 설정을 갖춰서 보내야합니다. YoutubeScript에서는 이 과정을 생략하고 wav파일로 올리는 작업을 합니다.
 
 ###7. YoutubeExtractor .dll
-![alt tag](https://github.com/cog-io/Section02/blob/master/picture/7(Youtubeextractor).PNG)
+![alt tag](https://github.com/cog-io/Section02/blob/master/picture/7(youtubeextractor).PNG)
 
 **[관련 동영상 링크](https://www.youtube.com/watch?v=TnG3urCD_m0)**
 
