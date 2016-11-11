@@ -9,7 +9,7 @@ Cogio 유튜브 스크립트 프로젝트는 자마린과 애저 코그니티브
 ##Cogio YoutubeScript project Azure Cognitive 부분
 
 ###1. 초기 셋팅
-[!초기화](https://github.com/cog-io/Section02/blob/master/picture/initialize.PNG)
+![alt tag](https://github.com/cog-io/Section02/blob/master/picture/initialize.PNG)]
 
 - Azure Cognitive Speech api를 쓰기 위해서는 **DataRecognitionClient** 의 변수가 필요합니다.
  위의 화면에서는 m_dataClient라는 변수로 이를 이용합니다.
