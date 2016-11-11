@@ -8,9 +8,14 @@ Cogio 유튜브 스크립트 프로젝트는 YoutubeExtractor dll과 Azure Cogni
  - Overview
  YoutubeExtractor는 .NET용 라이브러리이며, C#으로 작성되어 있고 유튜브에서 비디오를 다운로드 할 수 있고 오디오 트랙을 추출할 수 있습니다. (현재는 플래시 비디오에서만 오디오 추출이 가능합니다.)
 
+ ![alt tag](https://github.com/cog-io/Section02/blob/master/picture/KakaoTalk_Photo_2016-11-11-19-35-54_11.jpeg)
+
 ##Azure Cognitive service
 
 ### Bing Speech API
+
+ ![alt tag](https://github.com/cog-io/Section02/blob/master/picture/KakaoTalk_Photo_2016-11-11-19-42-44.jpeg)
+
  Bing speech API는 음성을 텍스트로 변환하고 다시 음성으로 변환하여 의도를 이해합니다.
 
  - 음성 인식
@@ -23,6 +28,9 @@ Cogio 유튜브 스크립트 프로젝트는 YoutubeExtractor dll과 Azure Cogni
  텍스트를 음성 오디오로 변환합니다. 응용 프로그램이 사용자에게 다시 “말”해야 할 경우 이 API가 앱에서 생성된 텍스트를 사용자에게 재생 가능한 오디오로 변환합니다.
 
 ###Translator speech API
+
+![alt tag](https://github.com/cog-io/Section02/blob/master/picture/KakaoTalk_Photo_2016-11-11-19-42-26.jpeg)
+
 Microsoft Translator Speech API는 클라우드 기반 automatic translation(자동 번역) 서비스입니다. 개발자는 이 API를 사용하여 응용 프로그램 또는 서비스에 종단 간 실시간 음성 번역을 추가할 수 있습니다.
 
 - 응용 프로그램 도달 범위 확장
